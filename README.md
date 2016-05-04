@@ -1,4 +1,3 @@
 # a-game-project
-The post-AP game project //i was here first
-//flappy bird
+The post-AP game project 
 6 -A
